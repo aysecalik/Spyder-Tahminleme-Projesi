@@ -1,4 +1,4 @@
-# Spyder-Tahminleme-Projesi
+# Astım,KOAH-Tahminleme-Projesi
 500 gözlem ve 40 değişkenden oluşan sağlık
 verisiyle tahminleme modeli geliştirildi. %7 lik hatayla tahmin modeli en başarılı model seçilmiştir.
 
